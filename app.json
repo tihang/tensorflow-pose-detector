@@ -1,0 +1,12 @@
+{
+  "name": "FaceMeshApp",
+  "displayName": "FaceMeshApp",
+  "expo": {
+    "name": "FaceMeshApp",
+    "slug": "FaceMeshApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
